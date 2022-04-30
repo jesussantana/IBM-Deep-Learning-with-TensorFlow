@@ -1,4 +1,4 @@
-# [IBM Deep Learning with TensorFlow - IBM: ML0120EN](https://skills.yourlearning.ibm.com/activity/SN-COURSE-V1:BIGDATAUNIVERSITY+ML0120EN+V2)
+# [IBM Deep Learning with TensorFlow - IBM: ML0120EN](https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+ML0120EN+v2)
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
