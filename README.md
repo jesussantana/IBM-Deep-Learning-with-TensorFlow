@@ -1,5 +1,5 @@
 # [IBM Deep Learning with TensorFlow - IBM: ML0120EN](https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+ML0120EN+v2)
-
+IBM Machine Learnig with Python Credential
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)  
@@ -8,7 +8,7 @@
 ## In this TensorFlow course, you will be able to learn the basic concepts of TensorFlow, the main functions, operations and the execution pipeline. 
   
 ---
-
+- [IBM Deep Learning with TensorFlow Credential](https://www.credly.com/badges/7574f37f-7d67-4acf-bbfb-cd2cbf76015a/public_url) 
 ## COURSE SYLLABUS: 
 
 ### Module 1 - Introduction to TensorFlow
@@ -39,7 +39,7 @@
 - Collaborative Filtering with RBM 
 
 
-### Module 5 -Autoencoders
+### Module 5 - Autoencoders
 
 - Introduction to Autoencoders and Applications
 - Autoencoders
