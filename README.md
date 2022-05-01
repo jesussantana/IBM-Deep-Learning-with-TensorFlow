@@ -8,7 +8,7 @@ IBM Machine Learnig with Python Credential
 ## In this TensorFlow course, you will be able to learn the basic concepts of TensorFlow, the main functions, operations and the execution pipeline. 
   
 ---
-- [IBM Deep Learning with TensorFlow Credential](https://www.credly.com/badges/7574f37f-7d67-4acf-bbfb-cd2cbf76015a/public_url) 
+## [IBM Deep Learning with TensorFlow Credential](https://www.credly.com/badges/7574f37f-7d67-4acf-bbfb-cd2cbf76015a/public_url) 
 ## COURSE SYLLABUS: 
 
 ### Module 1 - Introduction to TensorFlow
