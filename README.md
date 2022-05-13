@@ -1,6 +1,6 @@
 # [IBM Deep Learning with TensorFlow - IBM: ML0120EN](https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+ML0120EN+v2)
 
-# [Accelerating Deep Learning with GPUs - IBM: ML0122ENv3](https://cognitiveclass.ai/courses/tensorflow_gpu)
+# [IBM Accelerating Deep Learning with GPUs - IBM: ML0122ENv3](https://cognitiveclass.ai/courses/tensorflow_gpu)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)  
@@ -60,30 +60,31 @@
 
 ### Module 1 - Quick review of Deep Learning
 
-- HelloWorld with TensorFlow
-- Linear Regression
-- Nonlinear Regression
-- Logistic Regression
-- Activation Functions 
+- Intro to Deep Learning
+- Deep Learning Pipeline 
 
 ### Module 2 - Hardware Accelerated Deep Learning
 
-- CNN History
-- Understanding CNNs
-- CNN Application
+- How to accelerate a deep learning model?
+- Running TensorFlow operations on CPUs vs. GPUs
+- Convolutional Neural Networks on GPU
 
 ### Module 3 - Deep Learning in the Cloud
 
-- Intro to RNN Model
-- Long Short-Term memory (LSTM)
-- Recursive Neural Tensor Network Theory
-- Recurrent Neural Network Model
+- Deep Learning in the Cloud
+- How does one use a GPU
 
 ### Module 4 - Distributed Deep Learning
 
-- Applications of Unsupervised Learning
-- Restricted Boltzmann Machine
-- Collaborative Filtering with RBM 
+- Distributed Deep Learning
+- Object Detection with IBM PowerAI Vision
+- Image Classification with IBM PowerAI Vision  
+
+### Module 5 – Deed Learning Project
+
+- Introduction to Character Modelling
+- Recurrent Neural Network on GPU
+- Benchmark performance of training your model on GPU versus CPU 
 
 ---
 
