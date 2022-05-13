@@ -52,7 +52,7 @@
 ---
 ## TensorFlow is one of the best libraries to implement deep learning. TensorFlow is a software library for numerical computation of mathematical expressional, using data flow graphs. Nodes in the graph represent mathematical operations, while the edges represent the multidimensional data arrays (tensors) that flow between them. It was created by Google and tailored for Machine Learning. In fact, it is being widely used to develop solutions with Deep Learning.
 
-
+---
 ## [Accelerating Deep Learning with GPUs](https://cognitiveclass.ai/courses/tensorflow_gpu)  
 
 ## Training complex deep learning models with large datasets takes along time. In this course, you will learn how to use accelerated GPU hardware to overcome the scalability problem in deep learning. 
